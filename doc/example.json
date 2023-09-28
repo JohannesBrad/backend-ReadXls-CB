@@ -1,0 +1,23 @@
+{
+    "status": "active",
+    "name": "VTEX 10 Shirt",
+    "brandId": "1",
+    "categoryIds": [
+        "732"
+    ],
+    "slug": "/vtex-shirt",
+    "skus": [
+        {
+            "name": "VTEX Shirt Black Size S",
+            "externalId": "1909621862",
+            "isActive": true,
+            "weight": 300,
+            "dimensions": {
+                "width": 1.5,
+                "height": 2.1,
+                "length": 1.6
+            }
+        }
+    ],
+    "origin": "vtxleo7778"
+}
